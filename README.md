@@ -10,7 +10,7 @@ Expense Tracker (Трекер расходов) - приложение «Expense
 ## Требования для запуска
 Что нужно установить на компьютер:
 - Python 3.10 или выше
-- Библиотеки: `pip install tkcalendar`
+- Библиотеки: `tkinter`,'pandas','json','datetime'.
 ---
 ## Как запустить
 ```bash
